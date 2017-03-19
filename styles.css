@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('fonts/Vollkorn/Vollkorn-Regular.tff');
+}
+
+@font-face {
+    font-family: 'Montalban';
+    src: url('fonts/Montalban/Montalban.otf')
+    
+}
+
+
+img {
+    padding: 25px;
+}
+
+p {
+    color: white;;
+}
+
+* {
+    font-family: 'Vollkorn', sans-serif;
+}
+
+body {
+    background-color: #333333
+}
+
+header{
+    font-size: 25px;
+    color: #FF5D00;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.green {
+    color: #228b22;
+}
+
+.bigideapic {
+    height: 200px;
+}
+
+#visor {
+    font-family: 'Montalban'
+}
+
+.bih {
+    color: #FFA500;
+    font-size: 18px;
+}
